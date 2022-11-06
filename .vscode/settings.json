@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "*html": "html",
+    "cmath": "cpp",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "algorithm": "cpp",
+    "bitset": "cpp",
+    "*.tcc": "cpp",
+    "regex": "cpp",
+    "vector": "cpp"
+  }
+}
